@@ -8,7 +8,7 @@ go get github.com/hzwy23/utils
 
 ## 简介
 
-这是一个自己收集的常用工具包, 目前在[asofdate项目](github.com/hzwy23/asofdate)中使用.
+这是一个自己收集的常用工具包, 目前在[asofdate项目](https://github.com/hzwy23/asofdate)中使用.
 
 utils中模块简介:
 
